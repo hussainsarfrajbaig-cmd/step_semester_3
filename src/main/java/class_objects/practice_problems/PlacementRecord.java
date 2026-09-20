@@ -25,4 +25,3 @@ public class PlacementRecord {
             record.printRecord();
         }
     }
-}
